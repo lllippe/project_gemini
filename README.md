@@ -60,9 +60,9 @@ Para utilizar este planejador alimentar, você precisará ter o **Python** insta
     ```
 4.  **Execute o programa:**
     ```bash
-    python [nome_do_arquivo_principal.py]
+    python [main.py]
     ```
-    *(Substitua `[nome_do_arquivo_principal.py]` pelo nome do arquivo que inicia o seu programa)*
+    *(Substitua `[main.py]` pelo nome do arquivo que inicia o seu programa)*
 5.  **Siga as instruções:** O programa irá te guiar para inserir suas informações e gerar o seu plano alimentar. Os arquivos PDF com os resultados serão salvos na pasta `/diets`.
 
 ## Contribuição 🙌
@@ -79,7 +79,7 @@ Sinta-se à vontade para contribuir com este projeto! Se você tiver ideias para
 
 Se tiver alguma dúvida, sugestão ou encontrar algum problema, fique à vontade para entrar em contato:
 
-* **E-mail:** [seu-email@exemplo.com]
+* **E-mail:** [felipe@frpelissari.com]
 * **GitHub:** [https://github.com/lllippe](https://github.com/lllippe)
 
 Vamos juntos tornar a alimentação saudável mais acessível a todos! 💪
